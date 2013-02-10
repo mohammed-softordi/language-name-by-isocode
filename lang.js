@@ -1,5 +1,10 @@
 /**
  * @author Anatoly Mironov (mirontoli)
+ * http://sharepointkunskap.wordpress.com
+ * http://www.bool.se
+ *  
+ * http://stackoverflow.com/questions/3605495/generate-a-list-of-localized-language-names-with-links-to-google-translate/14800384#14800384
+ * 
  * using Phil Teare's answer on stackoverflow
  * http://stackoverflow.com/questions/3217492/list-of-language-codes-in-yaml-or-json/4900304#4900304
  * Just for testing only. Incorporate in your own javascript namespace
