@@ -748,5 +748,11 @@
 		var lang = isoLangs[key];
 		return lang ? lang.name : undefined;
 	}
+	var getLanguageNativeName = function(key) {
+		key = key.slice(0,2);
+		var lang = isoLangs[key];
+		return lang ? lang.nativveName : undefined;
+	}
 	window.getLanguageName = getLanguageName;
+	window.getLanguageNativeName = getLanguageNativeName;
 })();
