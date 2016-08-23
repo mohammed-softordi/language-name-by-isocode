@@ -1,0 +1,30 @@
+{
+  "name": "language-name-by-isocode",
+  "version": "0.0.1",
+  "authors": [
+    "Mohammed Ayowa <mohammed.ayowa@scania.com>"
+  ],
+  "description": "Get Language name based on iso 639-1 code",
+  "main": "lang.js",
+  "moduleType": [],
+  "keywords": [
+    "language",
+    "Iso code",
+    "Iso code to language name",
+    "language name",
+    "native language name"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mohammed-softordi/language-name-by-isocode",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mohammed-softordi/language-name-by-isocode.git"
+  },
+}
